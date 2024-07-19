@@ -1,4 +1,4 @@
-# Hi there Im WolfieLeader🤗
+# Hi there I'm WolfieLeader🤗
 
 <h3 align="left">Languages:</h3>
 <p>
@@ -6,12 +6,7 @@
   <img alt="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="45"/>
   <img alt="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="45"/>
   <img alt="Solidity" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" width="45"/>
-  <img alt="C" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="45"/>
   <img alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="45"/>
-  <img alt="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="45"/>
-  <img alt="Go" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="45"/>
-  <img alt="Kotlin" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="45"/>
-  <img alt="Rust" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="45"/>
 </p>
 
 ## Frontend
@@ -22,7 +17,6 @@
   <img alt="React" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="45"/>
   <img alt="NextJS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="45"/>
   <img alt="Svelte" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Svelte.svg" width="45"/>
-  <img alt="DotNet" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="45"/>
 </p>
 
 <h3 align="left">Styling:</h3>
@@ -30,8 +24,6 @@
   <img alt="CSS3" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45"/>
   <img alt="SASS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="45"/>
   <img alt="Tailwind" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="45"/>
-  <img alt="MUI" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="45"/>
-  <img alt="Bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="45"/>
 </p>
 
 <h3 align="left">Bundelers:</h3>
