@@ -9,10 +9,10 @@ I'm a **Full-Stack Developer** specializing in both **Web & Mobile** application
 - 🛡️ **Cybersecurity & Secure OAuth 2.0 Flows**
 - 📦 **NPM Package Development**
 - 🎨 **UI/UX Design**
-- 🪙 **Blockchain & Cryptocurrency**
+- 🪙 **FinTech, Blockchain, and Cryptocurrency**
 
 ### 😁 *Fun Facts*
 - 🧩 I can solve a Rubik's Cube in less than 30 seconds
 - 💪🏽 I can bench 100kg for several reps
 
-*Thank you for visiting my profile!*
+*Thank you for visiting my profile!* 🚀
