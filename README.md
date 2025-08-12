@@ -1,16 +1,19 @@
-## 👋 *About Me*
+## 👋 _About Me_
 
-**Full-Stack Developer** specializing in both **Web & Mobile** applications. I love building solutions that are both **scalable** and **secure** while maintaining a **great user experience**, and exploring new technologies.
+**Full-Stack Developer** with expertise in **Web & Mobile** applications, specializing in **scalable architecture**, **high-performance systems**, and **secure authentication flows**.
+I focus on delivering **developer-friendly** and **production-ready** solutions, and I’m passionate about exploring new technologies and pushing performance boundaries.
 
-## 🚀 *Areas of Expertise*
+## 🎯 _Core Skills_
+
 - ✅ **Fast & Scalable Applications**
-- 🛡️ **Cybersecurity & Secure OAuth 2.0 Flows**
+- 🛡️ **Cybersecurity & OAuth 2.0**
 - 📦 **NPM Package Development**
-- 🎨 **UI/UX Design**
 - 🪙 **FinTech, Blockchain, and Cryptocurrency**
+- 🎨 **UI/UX Design**
 
-### 😁 *Fun Facts*
-- 🧩 I can solve a Rubik's Cube in less than 30 seconds
-- 💪🏽 I can bench 100kg for several reps
+### 😁 _Fun Facts_
 
-*Thank you for visiting my profile!* 🚀
+- 🧩 I can solve a Rubik’s Cube in **under 30 seconds**
+- 💪🏽 I can bench **100kg** for **several reps**
+
+_Thank you for visiting my profile!_ 🚀
